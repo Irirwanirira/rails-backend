@@ -5,11 +5,11 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
-Message.create([
-    { message: 'We are so close to the program' },
-    { message: 'Sleepless night' },
-    { message: 'Day before capstone' },
-    { message: 'Magical sun set' },
-    { message: 'Where was Auto magical ChatGpt' },
-    { message: 'Ask sister ChatGpt' }
+Greeting.create([
+    { greeting: 'We are so close to the program end' },
+    { greeting: 'Sleepless night' },
+    { greeting: 'Day before capstone' },
+    { greeting: 'Magical sun set' },
+    { greeting: 'Where was Auto magical ChatGpt' },
+    { greeting: 'Ask sister ChatGpt' }
 ])
