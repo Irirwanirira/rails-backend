@@ -36,7 +36,12 @@ After you're finished please remove all the comments and instructions!
 - [:pray: Acknowledgements](#acknowledgements)
 - [:memo: License](#license)
 <!-- PROJECT DESCRIPTION -->
-# :book: React-Rails Hello World <a name="about-project"></a>
+
+## 🚀 React Front end <a name="React Front-end"></a>
+
+- [Link to React-front-end](https://github.com/Irirwanirira/react-front-end)
+
+# :book: Rails-api  <a name="about-project"></a>
 This repo is a project of creating an api holding greeting and it is connected with rails app, and all greetings are displayed on the UI, to make a two app project. 
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
